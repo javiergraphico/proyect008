@@ -7,6 +7,7 @@ import Porfolio from "./pages/Porfolio";
 import Contacto from "./pages/Contacto";
 import Skill from "./pages/Skill";
 import Experiencia from "./pages/Experiencia";
+import Fouuter from "./components/Fouuter";
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path="/porfolio" element={<Porfolio />} />
         <Route path="/contacto" element={<Contacto />} />
       </Routes>
+      <Fouuter />
       
     </BrowserRouter>
   );

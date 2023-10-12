@@ -1,0 +1,10 @@
+.services_bg{
+  background-image: url(https://images.pexels.com/photos/9272296/pexels-photo-9272296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-color: rgba(0, 0, 0, 0.4);
+  background-blend-mode: multiply;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 40vh;
+  width: 100%;
+}
